@@ -18,16 +18,16 @@ I also had difficulty getting the field of view post-process to look good. I am 
 For the cross hatch shader, I made use of mod functions to get patterns of lines resembling shading. I also used mod to make the background look like a piece of looseleaf.
 
 No post-process:
-![]("1.png")
+![](1.png)
 
 Bloom:
-![]("2.png")
+![](2.png)
 
 Field of View:
-![]("3.png")
+![](3.png)
 
 CrossHatch:
-![]("4.png")
+![](4.png)
 
 Resources:
 
