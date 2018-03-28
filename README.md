@@ -5,6 +5,8 @@
 ## Submission
 Caroline Lachanski, clach
 
+** Just noticed my demo link doesn't seem to show the meshes, not sure what's up with that. They show up fine when I was running it through localhost. Not sure what to do, tbh.
+
 Demo: https://clach.github.io/homework-7-deferred-renderer-clach
 
 I implemented Bloom (32bit), Field of View (8bit), and a CrossHatch artistic shader (8bit).
